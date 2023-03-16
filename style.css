@@ -1,0 +1,152 @@
+body{
+    background-color: #fafafa;
+}
+.conteiner{
+    width: 600px;
+    margin: 0px auto;
+    padding-top: 25px;
+    display: flex;
+}
+.gambar{
+    width: 100%;
+    
+}
+.gmbr{
+    width: 120%;
+    margin-top: -20px;
+    margin-left: -80px;
+}
+.card_wrapper{
+    width: 90%;
+}
+.card{
+    border-style: solid;
+    border-color: #f0f0f0;
+    border-width: 2px;
+    text-align: center;
+    background-color: white;
+    padding-bottom: 20px;
+    padding-top: 10px;
+}
+.ig{
+    width: 200px;
+    margin-top: 10px;  
+}
+.form{
+    margin-top: auto;
+}
+
+.input{
+    width: 230px;
+    height: 30px;
+    background-color: #fafafa;
+    border: 1px solid gray;
+    padding: 4px;
+    border-radius: 5px;
+    margin-top: 10px;
+}
+.btn{
+    background-color: #0095f6;
+    border: 0px solid transparent;
+    margin-top: 20px;
+    width: 240px;
+    height: 30px;
+    border-radius: 5px;
+    color: white;
+}
+.or{
+    width: 100%;
+    text-align: center;
+    border-bottom: 1px solid gray;
+    line-height: 0.1em;
+    margin: 10px 0 20px;
+    margin-top: 10px;
+}
+span{
+    background: #fff;
+    padding:  0 10px;
+}
+.login{
+    color: blue;
+    text-decoration: none;
+}
+.forget{
+    color: gray;
+    text-decoration: none;
+    font-size: 12px;
+    margin-top: 20px;
+}
+.card1{
+    border-style: solid;
+    border-color: #f0f0f0;
+    border-width: 2px;
+    text-align: center;
+    background-color: white; 
+}
+.up{
+    color: #0095f6;
+    text-decoration: none;
+}
+.get{  
+    text-decoration: none;
+    text-align: center;
+    margin-top: 10px;
+}
+.col{
+    margin-left: 20px;
+}
+.app{
+    width: 120px;
+    margin-bottom: 15px;
+}
+.play{
+    width: 100px;
+    margin-bottom: 20px;
+    
+}
+a{
+    text-decoration: none;
+    color: rgb(173, 173, 173);
+    font-size: 13px;
+}
+a:hover{
+    color: rgb(173, 173, 173);
+    text-decoration: none;
+}
+.p{
+    list-style-type: none;
+    position: relative;
+    float: left;
+    display: block;
+    left: 30%;
+}
+.g{
+    list-style-type: none;
+    position: relative;
+    float: left;
+    display: block;
+    left: -11.5%;
+}
+.f{
+    list-style-type: none;
+    position: relative;
+    float: left;
+    display: block;
+    left: 40%;
+    bottom: 25px;
+}
+li{
+    float: left;
+    display: inline;
+    position: relative;
+    right: 50px;
+}
+li a{
+    text-align: center;
+    padding: 10px;
+}
+footer{
+    width: 100%;
+    text-align: center;
+    margin-top: -2%;
+}
